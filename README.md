@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/dhrubaduttab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhrubaduttab" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dhruba-dutta-banik-963524231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruba dutta banik" height="30" width="40" /></a>
-<a href="https://fb.com/dhruba dutta banik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhruba dutta banik" height="30" width="40" /></a>
+<a href="https://www.facebook.com/dhrubabanik123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhruba dutta banik" height="30" width="40" /></a>
 <a href="https://instagram.com/___dhruba_official___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___dhruba_official___" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
