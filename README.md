@@ -2,6 +2,10 @@
 <h1 align="center">Hello Devs 👋, It's Dhruba Dutta Banik here !</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
+<img align="right" src="https://user-images.githubusercontent.com/78967360/170852240-49c451c2-5323-4d71-81fe-9a0c6bd6a23a.gif" alt="Hola Coders" width="300" height="200"/> 
+
+
+
 
 
 
@@ -9,7 +13,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruba2004" alt="dhruba2004" /></a> </p>
 
-<img align="right" src="https://user-images.githubusercontent.com/78967360/170852240-49c451c2-5323-4d71-81fe-9a0c6bd6a23a.gif" alt="Hola Coders" width="300" height="200"/> 
 
 
 
