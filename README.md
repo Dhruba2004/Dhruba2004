@@ -2,8 +2,8 @@
 <h1 align="center">Hello Devs 👋, It's Dhruba Dutta Banik here !</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<img align ="right" width="400" src="![image](https://github.com/Dhruba2004/Dhruba2004/assets/113227923/80e12f19-8bf4-4cd4-af74-a7a1d997ed81)
-">
+<img align="right" src="https://user-images.githubusercontent.com/78967360/170852240-49c451c2-5323-4d71-81fe-9a0c6bd6a23a.gif" alt="Hola Coders" width="300" height="200"/> 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruba2004&label=Profile%20views&color=0e75b6&style=flat" alt="dhruba2004" /> </p>
 
