@@ -1,4 +1,4 @@
-![Header](./.png)
+![Header](./github-header-image.png)
 <h1 align="center">Hello Devs 👋, It's Dhruba Dutta Banik here !</h1>
 <h3 align="center">A passionate Software Engineering Undergrad from Kolkata, 🇮🇳</h3>
 <h3 align="center">Currently in the 2nd year of my B.Tech in Computer Science & Engineering from University of Engineering & Management, Kolkata.</h3>
