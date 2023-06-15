@@ -9,11 +9,11 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/78967360/170852240-49c451c2-5323-4d71-81fe-9a0c6bd6a23a.gif" alt="Hola Coders" width="300" height="200"/> 
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning -> **Full Stack Web Development**
 
-- 📫 How to reach me **dhrubaduttabanik@gmail.com**
+- 📫 How to reach me -> **dhrubaduttabanik@gmail.com**
 
-- Checkout my portfolio at https://dhruba2004.netlify.app/
+- 👨‍💻 Checkout my portfolio -> https://dhruba2004.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
