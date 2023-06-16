@@ -13,7 +13,6 @@
 
 - 📫 How to reach me -> **dhrubaduttabanik@gmail.com**
 
-- 👨‍💻 Checkout my portfolio -> https://dhruba2004.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
