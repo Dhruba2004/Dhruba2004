@@ -9,7 +9,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Dhruba2004&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dhruba2004&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <img align="right" src="https://user-images.githubusercontent.com/78967360/170852240-49c451c2-5323-4d71-81fe-9a0c6bd6a23a.gif" alt="Hola Coders" width="300" height="200"/> 
 
