@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" src="https://user-images.githubusercontent.com/78967360/170852240-49c451c2-5323-4d71-81fe-9a0c6bd6a23a.gif" alt="Hola Coders" width="300" height="200"/> 
+<img align="right" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="Hola Coders" width="300" height="200"/> 
 
 # 💫 About Me:
 - 🌱 I’m currently learning -> **Full Stack Web Development**<br><br>- 📫 How to reach me -> **dhrubaduttabanik@gmail.com**<br>
