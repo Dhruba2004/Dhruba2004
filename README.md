@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineering Undergrad from Kolkata, 🇮🇳</h3>
 <h3 align="center">Currently in the 2nd year of my B.Tech in Computer Science & Engineering from University of Engineering & Management, Kolkata.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruba2004&label=Profile%20views&color=0e75b6&style=flat" alt="dhruba2004" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruba2004&label=Profile%20views&color=0e75b6&style=flat" alt="dhruba2004" </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dhruba2004&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
@@ -12,7 +12,7 @@
 # 💫 About Me:
 - 🌱 I’m currently learning -> **Full Stack Web Development**<br><br>- 📫 How to reach me -> **dhrubaduttabanik@gmail.com**<br>
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Hola Coders" height="200" style="position: relative; top: 50px; right: 20px;"/>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Hola Coders" height="200" style="position: relative; top: 50px; right: 20px;"></img>
 
 
 ### 🌐 Socials:
