@@ -14,7 +14,7 @@
 
 
 
-### 💫 About Me:
+# 💫 About Me:
 - 🌱 I’m currently learning -> **Full Stack Web Development**<br><br>- 📫 How to reach me -> **dhrubaduttabanik@gmail.com**<br>
 
 
@@ -36,4 +36,4 @@
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --
