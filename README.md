@@ -11,9 +11,8 @@
 
 # 💫 About Me:
 - 🌱 I’m currently learning -> **Full Stack Web Development**<br><br>- 📫 How to reach me -> **dhrubaduttabanik@gmail.com**<br>
-<br>
 
-<img align="right" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="Hola Coders" height="200" style="position: relative; top: 60px; right: 20px;">/> 
+<img align="right" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="Hola Coders" height="400" style="position: relative; top: 60px; right: 20px;">/> 
 
 
 ### 🌐 Socials:
