@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="Hola Coders" width="200" height="200"/> 
+<img align="right" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="Hola Coders" width="500" height="300"/> 
 
 
 
