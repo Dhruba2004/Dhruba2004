@@ -7,7 +7,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dhruba2004&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-<br/>
+
+
+<br>
 <img align="right" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="Hola Coders" height="200" style="margin-top: 60px;"/> 
 
 
