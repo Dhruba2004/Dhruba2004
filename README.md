@@ -10,7 +10,7 @@
 
 
 ## 💫 About Me:
-- 🌱 I’m currently learning -> **Full Stack Web Development and DSA**<br><br>
+- 🌱 I’m currently learning -> **Full Stack Web Development and DSA**
 - 📫 How to reach me -> **dhrubaduttabanik@gmail.com**<br>
 - 💬 Ask me about **HTML5, CSS3, Vanilla JavaScript, ReactJs, Tailwind, Python, Java**
 
