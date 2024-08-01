@@ -10,7 +10,9 @@
 
 
 ## 💫 About Me:
-- 🌱 I’m currently learning -> **Full Stack Web Development**<br><br>- 📫 How to reach me -> **dhrubaduttabanik@gmail.com**<br>
+- 🌱 I’m currently learning -> **Full Stack Web Development and DSA**<br><br>- 📫 How to reach me -> **dhrubaduttabanik@gmail.com**<br>
+- 💬 Ask me about **HTML5, CSS3, Vanilla JavaScript, ReactJs, Tailwind, Python, Java**
+
 
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Hola Coders" height="250"></img>
 
