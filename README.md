@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruba2004" alt="dhruba2004" /></a> </p>
 
-- 🌱 I’m currently learning : **Dsa with cpp**
+🌱 I’m currently learning : **Dsa with cpp**
 
-- 💬 Ask me about : **HTML5, CSS3, Vanilla JavaScript, ReactJs, NextJs , Tailwind, Python, Java, Cpp**
+💬 Ask me about : **HTML5, CSS3, Vanilla JavaScript, ReactJs, NextJs , Tailwind, Python, Java, Cpp**
 
-- 📫 How to reach me : **dhrubaduttabanik@gmail.com**
+📫 How to reach me : **dhrubaduttabanik@gmail.com**
 
-- ⚡ Fun fact : **Simple but significant**
+⚡ Fun fact : **Simple but significant**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
