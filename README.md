@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruba2004&label=Profile%20views&color=0e75b6&style=flat" alt="dhruba2004" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruba2004" alt="dhruba2004" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhruba2004&theme=onedark" alt="dhruba2004" /></a> </p>
 
 🌱 I’m currently learning : **Dsa with cpp**
 
