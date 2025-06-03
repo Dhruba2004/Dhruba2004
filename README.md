@@ -9,6 +9,8 @@
 
 🌱 I’m currently learning : **Dsa with cpp**
 
+🤖 I'm currently exploring: Cloud and Devops tools, scalable system design concepts 
+
 💬 Ask me about : **HTML5, CSS3, Vanilla JavaScript, ReactJs, NextJs , Tailwind, Python, Java, Cpp**
 
 📫 How to reach me : **dhrubaduttabanik@gmail.com**
