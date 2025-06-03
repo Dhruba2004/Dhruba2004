@@ -11,8 +11,6 @@
 
 🤖 I'm currently exploring : **Cloud , Devops tools, scalable system design concepts** 
 
-💬 Ask me about : **HTML5, CSS3, Vanilla JavaScript, ReactJs, NextJs , Tailwind, Python, Java, Cpp**
-
 📫 How to reach me : **dhrubaduttabanik@gmail.com**
 
 ⚡ Fun fact : **Simple but significant**
