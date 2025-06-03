@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhruba2004&theme=onedark" alt="dhruba2004" /></a> </p>
 
-🌱 I’m currently learning : **Dsa with cpp**
+🌱 I’m currently learning : **advanced techniques in DSA to enhance my problem solving skills**
 
-🤖 I'm currently exploring: **Cloud , Devops tools, scalable system design concepts** 
+🤖 I'm currently exploring : **Cloud , Devops tools, scalable system design concepts** 
 
 💬 Ask me about : **HTML5, CSS3, Vanilla JavaScript, ReactJs, NextJs , Tailwind, Python, Java, Cpp**
 
